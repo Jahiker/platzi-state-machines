@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/platzi-state-machines/static/css/main.2e87ad88.css",
+    "main.js": "/platzi-state-machines/static/js/main.fac498f1.js",
+    "static/js/787.e8ffdc85.chunk.js": "/platzi-state-machines/static/js/787.e8ffdc85.chunk.js",
+    "static/media/background-travel-2.jpg": "/platzi-state-machines/static/media/background-travel-2.1b3bc05ab3ab53a29ab2.jpg",
+    "index.html": "/platzi-state-machines/index.html",
+    "main.2e87ad88.css.map": "/platzi-state-machines/static/css/main.2e87ad88.css.map",
+    "main.fac498f1.js.map": "/platzi-state-machines/static/js/main.fac498f1.js.map",
+    "787.e8ffdc85.chunk.js.map": "/platzi-state-machines/static/js/787.e8ffdc85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e87ad88.css",
+    "static/js/main.fac498f1.js"
+  ]
+}
